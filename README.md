@@ -12,13 +12,15 @@ Working backwards from real user pain points — prototyping fast, validating wi
 
 </div>
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://edocore.github.io/product-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-core)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:core.edoardo@gmail.com)
+
+</div>
+
 ---
-
-### 🛰️ Connect
-
-![Connect: Portfolio](https://img.shields.io/static/v1?label=Connect&message=Portfolio&logo=safari&color=blue)
-![Connect: LinkedIn](https://img.shields.io/static/v1?label=Connect&message=LinkedIn&logo=linkedin&color=blue)
-![Connect: Email](https://img.shields.io/static/v1?label=Connect&message=Email&logo=gmail&color=red)
 
 ### 🪐 Product Management
 
@@ -31,7 +33,7 @@ Working backwards from real user pain points — prototyping fast, validating wi
 ### 🤖 AI
 
 ![AI: Claude Code](https://img.shields.io/static/v1?label=AI&message=Claude%20Code&logo=anthropic&color=orange)
-![AI: Kiro](https://img.shields.io/static/v1?label=AI&message=Kiro&logo=amazon&color=orange)
+![AI: Kiro](https://img.shields.io/static/v1?label=AI&message=Kiro&logo=awslambda&color=orange)
 ![AI: Gemini](https://img.shields.io/static/v1?label=AI&message=Gemini&logo=googlegemini&color=orange)
 
 ### 💻 Code
@@ -45,7 +47,7 @@ Working backwards from real user pain points — prototyping fast, validating wi
 
 ![Tools: Git](https://img.shields.io/static/v1?label=Tools&message=Git&logo=git&color=purple)
 ![Tools: GitHub](https://img.shields.io/static/v1?label=Tools&message=GitHub&logo=github&color=purple)
-![Tools: VS Code](https://img.shields.io/static/v1?label=Tools&message=VS%20Code&logo=visual-studio-code&color=purple)
+![Tools: VS Code](https://img.shields.io/static/v1?label=Tools&message=VS%20Code&logo=visualstudiocode&color=purple)
 ![Tools: Figma](https://img.shields.io/static/v1?label=Tools&message=Figma&logo=figma&color=purple)
 
 ### 🤝 Collaboration
